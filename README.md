@@ -3,8 +3,6 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 I'm Ashutosh aka <a href="https://www.ashutosh887.me/" target="_blank">ashutosh887</a>
 -------------
 
-I am a final year B.Tech (Computer Science) Undergrad.
-
 I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with scalable, efficient and modern backends 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh887" /> </p>
