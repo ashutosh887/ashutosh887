@@ -5,7 +5,7 @@ I'm Ashutosh aka <a href="https://www.ashutosh887.me/" target="_blank">ashutosh8
 
 I am a final year B.Tech (Computer Science) Undergrad.
 
-Looking forward to contribute to awesome projects and build amazing stuffs 🚀
+I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with scalable, efficient and modern backends 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh887" /> </p>
                   
@@ -16,6 +16,7 @@ Looking forward to contribute to awesome projects and build amazing stuffs 🚀
 
 ### Socials          
 - [LinkedIn](https://www.linkedin.com/in/ashutosh887/)
+- [Website](https://www.ashutosh887.me/)
 
 
 ### My GitHub Stats
