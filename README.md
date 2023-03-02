@@ -5,6 +5,8 @@ I'm Ashutosh aka <a href="https://www.ashutosh887.me/" target="_blank">ashutosh8
 
 I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with scalable, efficient and modern backends 🚀
 
+**Fun fact:** I use dark mode because light attracts bugs 🙂
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh887" /> </p>
                   
 ### Skills 
