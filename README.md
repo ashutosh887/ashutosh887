@@ -22,4 +22,6 @@ I develop exceptional websites, web apps and tools that provide intuitive, pixel
 - [depextract](https://www.npmjs.com/package/depextract)
 
 ### My GitHub Stats
-<a href="http://www.github.com/ashutosh887"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh887&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![ashutosh887's Stats](https://github-readme-stats.vercel.app/api?username=ashutosh887&theme=react&show_icons=true&hide_border=false&count_private=true)
+
+![ashutosh887's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh887&theme=react&hide_border=true)
