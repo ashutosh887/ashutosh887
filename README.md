@@ -1,6 +1,6 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi 🙂
 </br>
-I'm Ashutosh aka <a href="https://www.ashutosh887.me/" target="_blank">ashutosh887</a>
+I'm Ashutosh
 -------------
 
 I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with scalable, efficient and modern backends 🚀
