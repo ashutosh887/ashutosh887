@@ -16,7 +16,7 @@ I develop exceptional websites, web apps and tools that provide intuitive, pixel
 
 ### Socials          
 - [LinkedIn](https://www.linkedin.com/in/ashutosh887/)
-- [Website](https://www.ashutosh887.me/)
+- [Website](https://ashutosh887.vercel.app/)
 
 ### Packages authored:
 - [depextract](https://www.npmjs.com/package/depextract)
