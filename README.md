@@ -7,6 +7,8 @@ I develop exceptional websites, web apps and tools that provide intuitive, pixel
 
 **Fun fact:** I use dark mode because light attracts bugs 🙂
 
+**Quote:** Life is time 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh887" /> </p>
                   
 ### Skills 
