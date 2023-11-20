@@ -1,7 +1,4 @@
-Hi 🙂
 </br>
-I'm Ashutosh
--------------
 
 I develop exceptional websites, web apps and tools that provide intuitive, pixel-perfect user interfaces with scalable, efficient and modern backends 🚀
 
