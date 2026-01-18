@@ -41,8 +41,8 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 
 Contributed to [**@Kubernetes SIGs**](https://github.com/kubernetes-sigs) · [**@vitejs**](https://github.com/vitejs) · [**@ethereum-optimism**](https://github.com/ethereum-optimism) · [**@kestra-io**](https://github.com/kestra-io) · [**@meshery**](https://github.com/meshery) · [**@EddieHubCommunity**](https://github.com/EddieHubCommunity)
 
-Founder of [**@DevSapiensHQ**](https://github.com/DevSapiensHQ)
 Ran [**Hacktoberfest 2023**](https://github.com/ashutosh887/hacktober-2023) workshops - 50+ PRs merged live 🎉
+
 ---
 
 ### 📦 Published Package
