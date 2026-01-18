@@ -25,6 +25,8 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 
 | Project | Description |
 |---------|-------------|
+| [**Evolv**](https://github.com/ashutosh887/portkey-ai-evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage (🏆 1st Prize [Portkey AI](https://github.com/orgs/Portkey-AI/)) |
+| [**PayFlow**](https://github.com/ashutosh887/PayFlow) | Visual programmable payment workflows with MNEE - build complex payment logic on Ethereum |
 | [**AlivePing**](https://github.com/ashutosh887/AlivePing) | Personal safety system with blockchain proof on Solana + WhatsApp alerts |
 | [**SafeVoice**](https://github.com/ashutosh887/SafeVoice) | AI transcription app for legal evidence documentation (4.5/5 rating) |
 | [**CareerFit**](https://github.com/ashutosh887/CareerFit) | AI resume analyzer - 100+ users in first week |
@@ -40,9 +42,7 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 Contributed to [**@Kubernetes SIGs**](https://github.com/kubernetes-sigs) · [**@vitejs**](https://github.com/vitejs) · [**@ethereum-optimism**](https://github.com/ethereum-optimism) · [**@kestra-io**](https://github.com/kestra-io) · [**@meshery**](https://github.com/meshery) · [**@EddieHubCommunity**](https://github.com/EddieHubCommunity)
 
 Founder of [**@DevSapiensHQ**](https://github.com/DevSapiensHQ)
-
 Ran [**Hacktoberfest 2023**](https://github.com/ashutosh887/hacktober-2023) workshops - 50+ PRs merged live 🎉
-
 ---
 
 ### 📦 Published Package
