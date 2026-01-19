@@ -25,7 +25,7 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 
 | Project | Description |
 |---------|-------------|
-| [**Evolv**](https://github.com/ashutosh887/portkey-ai-evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage<br/>🏆 1st Prize @ [Portkey](https://github.com/orgs/Portkey-AI/) [AI Builder Challenge](https://hackculture.io/hackathons/portkey-ai-builder-challenge) |
+| [**Evolv**](https://github.com/ashutosh887/Evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage<br/>🏆 1st Prize @ [Portkey](https://github.com/orgs/Portkey-AI/) [AI Builder Challenge](https://hackculture.io/hackathons/portkey-ai-builder-challenge) |
 | [**PayFlow**](https://github.com/ashutosh887/PayFlow) | Visual programmable payment workflows with MNEE - build complex payment logic on Ethereum |
 | [**AlivePing**](https://github.com/ashutosh887/AlivePing) | Personal safety system with blockchain proof on Solana + WhatsApp alerts |
 | [**SafeVoice**](https://github.com/ashutosh887/SafeVoice) | AI transcription app for legal evidence documentation (4.5/5 rating) |
