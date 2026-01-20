@@ -1,7 +1,8 @@
 # Hey, I'm Ashutosh 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh887" />
+  <img src="https://komarev.com/ghpvc/?username=ashutosh887&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/ashutosh887?style=flat&label=Total%20GitHub%20Stars&color=FFD700" />
 </p>
 
 Full-stack engineer with 3+ years building scalable web apps, AI-powered products, and developer tools.
