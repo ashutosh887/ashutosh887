@@ -48,7 +48,9 @@ Ran [**Hacktoberfest 2023**](https://github.com/ashutosh887/hacktober-2023) work
 
 ### 📦 Published Package
 
-[**depextract**](https://www.npmjs.com/package/depextract) - CLI tool to extract dependencies from Node.js projects
+[**moodcast**](https://clawdhub.com/ashutosh887/moodcast) - Moltbot skill package for expressive text-to-speech with ambient soundscapes
+
+[**depextract**](https://www.npmjs.com/package/depextract) - CLI tool to extract dependencies from Node.js projects  
 
 ---
 
