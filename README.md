@@ -21,7 +21,8 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 ### 🚀 Recent Projects
 | Project | Description |
 |---------|-------------|
-| [**Evolv**](https://github.com/ashutosh887/Evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage<br/>🏆 1st Prize @ [Portkey](https://github.com/orgs/Portkey-AI/) [AI Builder Challenge](https://hackculture.io/hackathons/portkey-ai-builder-challenge) |
+| [**Request Layer**](https://github.com/Nasiko-Labs/nasiko/pull/79) | Resilient request layer for multi-agent gateways — tiered semantic cache, in-flight coalescer, $/min rate limiter<br/>🏆 Winner @ [Nasiko Labs](https://github.com/Nasiko-Labs) Buildthon |
+| [**Evolv**](https://github.com/ashutosh887/Evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage<br/>🏆 Winner @ [Portkey](https://github.com/orgs/Portkey-AI/) [AI Builder Challenge](https://hackculture.io/hackathons/portkey-ai-builder-challenge) |
 | [**FinQuery**](https://github.com/ashutosh887/FinQuery) | An OpenEnv-compatible RL environment simulating a financial data terminal for training agents on multi-step analytical reasoning |
 | [**NeverLose**](https://github.com/ashutosh887/NeverLose) | The AI Agent That Converts Every Hesitant Buyer Into a Paying Customer<br/>🏆 Finalist · Top 5 / 90+ Teams @ [Pine Labs](https://www.pinelabs.com/) [AI Hackathon](https://lu.ma/xir2at9n) |
 | [**AlivePing**](https://github.com/ashutosh887/AlivePing) | Personal safety system with blockchain proof on Solana + WhatsApp alerts |
