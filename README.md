@@ -21,6 +21,7 @@ I ship end-to-end - from architecture to pixel-perfect UI to production deployme
 ### 🚀 Recent Projects
 | Project | Description |
 |---------|-------------|
+| [**Stub**](https://github.com/ashutosh887/stub) | One budget your agents can't break — a strongly-consistent, double-entry spend ledger on Amazon Aurora DSQL that fails any transaction which would breach your cap<br/>🔗 [Live](https://trystub.vercel.app/) · [npm](https://www.npmjs.com/package/trystub) · [Build story](https://ashutosh887.hashnode.dev/building-a-budget-your-ai-agents-physically-cannot-overspend-on-aurora-dsql) |
 | [**Request Layer**](https://github.com/Nasiko-Labs/nasiko/pull/79) | Resilient request layer for multi-agent gateways — tiered semantic cache, in-flight coalescer, $/min rate limiter<br/>🏆 Winner @ [Nasiko Labs](https://github.com/Nasiko-Labs) Buildthon |
 | [**Evolv**](https://github.com/ashutosh887/Evolv) | Prompt evolution platform - treat prompts like genetic sequences, track mutations & lineage<br/>🏆 Winner @ [Portkey](https://github.com/orgs/Portkey-AI/) [AI Builder Challenge](https://hackculture.io/hackathons/portkey-ai-builder-challenge) |
 | [**FinQuery**](https://github.com/ashutosh887/FinQuery) | An OpenEnv-compatible RL environment simulating a financial data terminal for training agents on multi-step analytical reasoning |
@@ -36,6 +37,7 @@ Ran [**Hacktoberfest 2023**](https://github.com/ashutosh887/hacktober-2023) work
 ---
 
 ### 📦 Published Packages
+[**trystub**](https://www.npmjs.com/package/trystub) - Drop-in SDK for Stub: guard, reserve, and settle agent spend against one budget that can't be overspent  
 [**moodcast**](https://clawdhub.com/ashutosh887/moodcast) - Moltbot skill package for expressive text-to-speech with ambient soundscapes  
 [**depextract**](https://www.npmjs.com/package/depextract) - CLI tool to extract dependencies from Node.js projects  
 
