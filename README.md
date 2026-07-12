@@ -43,4 +43,5 @@ Ran [**Hacktoberfest 2023**](https://github.com/ashutosh887/hacktober-2023) work
 
 ---
 
-*Dark mode user because light attracts bugs 🪲*
+- *Forgive & Forget? I'm neither God nor do I have Alzheimer's...*
+- *Dark mode user because light attracts bugs 🪲*
